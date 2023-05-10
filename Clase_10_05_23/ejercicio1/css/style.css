@@ -1,0 +1,28 @@
+*{
+    margin: 20px;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Covered By Your Grace', cursive;
+   text-align: center;
+}
+
+body{
+    background-color: rgb(25, 232, 63);
+}
+
+input{
+    background-color: rgb(15, 99, 183);
+}
+
+button{
+    background-color: rgb(32, 193, 225);
+    border-radius: 20%;
+    color: white;
+    border-color: white;
+}
+
+h1{
+    font-size: 150px;
+    margin-bottom: 50px;
+    color: rgb(56, 29, 207);
+}
